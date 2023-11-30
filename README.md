@@ -8,7 +8,7 @@ Here they are some topics to talk about with you:
 - 🔭 I’m currently working on Data Science (Prediction Models in Health and Physical Training purposes) AI fields, and Renewable Power Generation Projects.
 - 🌱 I’m currently learning TS and Cybersecurity
 - 👯 I’m looking to collaborate on Data Science Python Fundamentals at Ucamp Utel México
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Rehabilitation Engineering and Robotics Integrations based on Physilogy and Extended Reality (XR) and VR. Check my previous works  -->  https://scholar.google.com/citations?user=JQe3PjwAAAAJ&hl
 - 💬 Ask me about System Integrations on Robotics Systems and Mechatronics 
 - 📫 How to reach me: https://www.linkedin.com/in/juan-david-abril-bohorquez/
 
