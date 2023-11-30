@@ -5,7 +5,7 @@ I'm a experienced system integrator with expertise in R&D, advanced electronic s
 
 Here they are some topics to talk about with you:
 
-- 🔭 I’m currently working on Data Science and AI fields, and Renewable Power Generation Projects
+- 🔭 I’m currently working on Data Science (Prediction Models in Health and Physical Training purposes) AI fields, and Renewable Power Generation Projects.
 - 🌱 I’m currently learning TS and Cybersecurity
 - 👯 I’m looking to collaborate on Data Science Python Fundamentals at Ucamp Utel México
 - 🤔 I’m looking for help with ...
