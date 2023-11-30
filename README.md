@@ -12,6 +12,9 @@ Here they are some topics to talk about with you:
 - 💬 Ask me about System Integrations on Robotics Systems and Mechatronics 
 - 📫 How to reach me: https://www.linkedin.com/in/juan-david-abril-bohorquez/
 
+ [(CV) JuanD Abril EN (2).pdf](https://github.com/juandabril/juandabril/files/13507887/CV.JuanD.Abril.EN.2.pdf)
+
+
 
 ## Asking AI about top 10 skills in the CV
 
