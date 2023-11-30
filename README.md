@@ -5,9 +5,9 @@ I'm a experienced system integrator with expertise in R&D, advanced electronic s
 
 Here they are some topics to talk about with you:
 
-- 🔭 I’m currently working on Data Science and AI fields
-- 🌱 I’m currently learning TS
-- 👯 I’m looking to collaborate on Python Fundamentals at Ucamp Utel México
+- 🔭 I’m currently working on Data Science and AI fields, and Renewable Power Generation Projects
+- 🌱 I’m currently learning TS and Cybersecurity
+- 👯 I’m looking to collaborate on Data Science Python Fundamentals at Ucamp Utel México
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about System Integrations on Robotics Systems and Mechatronics 
 - 📫 How to reach me: https://www.linkedin.com/in/juan-david-abril-bohorquez/
@@ -24,4 +24,5 @@ Here they are some topics to talk about with you:
 
 ##   AI automatically understands and interpret prompt without syntax nor logic errors.
 
-![Uploading sintax.gif…]()
+![sintax](https://github.com/juandabril/juandabril/assets/42777024/b7ec6a33-4438-4f5a-98ef-250f56c7e0cd)
+
